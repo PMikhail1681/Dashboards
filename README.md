@@ -5,4 +5,4 @@
 ## Content/Содержание:
 
 1. [Dashboard according to Nordwind company data / Дашборд по данным компании Nordwind](https://github.com/PMikhail1681/Dashboards/blob/main/Nordwind.pdf)
-2. [Test task dashboard / Дашборд по тестовому заданию](https://github.com/PMikhail1681/Dashboards/blob/main/Test.pdf))
+2. [Test task dashboard / Дашборд по тестовому заданию](https://github.com/PMikhail1681/Dashboards/blob/main/Test.pdf)
